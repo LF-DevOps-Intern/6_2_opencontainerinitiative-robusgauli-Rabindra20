@@ -14,7 +14,7 @@ For checking database<br/>
 
 Use database<br/>
 ```
-\c
+\c internship
 ```
 ![c](https://user-images.githubusercontent.com/53372486/143779075-a3c58fff-db9b-4480-9602-e819a6f87eca.png)<br/>
 
